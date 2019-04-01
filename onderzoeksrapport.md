@@ -19,7 +19,7 @@ Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de admin
 
 1. <h3>Installatie</h3>
    De microbit kan plug and play gebruikt worden op de raspberry pi net zoals op een desktop OS. Om hem te gebruiken in Python code moet moet een import gebruikt worden:
-   `from microbit import *`
+   from microbit import *
 
 
 
@@ -35,36 +35,36 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 2. Vervolgens maken we 3 variabelen aan die de waarden van de accelerometer bijhouden.
 
    <h4>Declaring the variables that will hold the changes in movement</h4>
-   `Xdirection <br>`<br>
-   `Ydirection <br>`<br>
-   `Zdirection <br>`
+   Xdirection <br><br>
+   Ydirection <br><br>
+   Zdirection <br>
 
 3. Hierna zorgen we ervoor dat de variabelen de waarden bevatten conform de beweging van de accelerometer.
    De code zal er ongeveer uit zien als volgt
 
    <h4>Variables holding the new coordinates</h4>
-   `set Xmovement to acceleration (mg) X <br>`<br>
-   `set Ymovement to acceleration (mg) Y <br>`<br>
-   `set Zmovement to acceleration (mg) Z <br>`
+   set Xmovement to acceleration (mg) X <br><br>
+   set Ymovement to acceleration (mg) Y <br><br>
+   set Zmovement to acceleration (mg) Z <br>
 
 4. Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen.
 
    <h4>Variables holding the old coordinates</h4>
-   `Xold`
+   Xold
    <br>
-   `Yold`
+   Yold
    <br>
-   `Zold`
+   Zold
 
    <h4>Logical operation, detect movement</h4>
-   `if Xmovement ≠ OldX ...`<br>
+   if Xmovement ≠ OldX ...<br>
 
 5. We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd
 
    <h4>Declaring and initiate the threshold variables</h4>
-   `set Xdirection to 300`<br>
-   `set Ydirection to 300`  --> Deze waarde kan worden ingesteld naar eigen voorkeur <br>
-   `set Zdirection to 300` <br>
+   set Xdirection to 300<br>
+   set Ydirection to 300  --> Deze waarde kan worden ingesteld naar eigen voorkeur <br>
+   set Zdirection to 300 <br>
 
    Ook hier zullen we een conditie schrijven die kijkt of de waarde van de treshold wordt overschreden
    (opnieuw gebruik van if statement)
