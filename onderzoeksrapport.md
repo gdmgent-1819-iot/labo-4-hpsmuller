@@ -28,7 +28,7 @@ Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de admin
 De micro:bit sensoren voorzien ook de mogelijkheid om oriëntatie en beweging te registreren.
 Dit deed ons denken in de richting van een tracker voor huisdieren.
 
-   *Aanpak*
+   <h3>Aanpak</h3>
 
 1. Als eerste maken we een oneindige loop aan, daar binnen zal alle code voor de tracking zich bevinden.
 
@@ -50,9 +50,9 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 4. Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen.
 
    <h4>Variables holding the old coordinates</h4>
-   Xold
-   Yold
-   Zold
+   Xold <br>
+   Yold <br>
+   Zold <br>
 
    <h4>Logical operation, detect movement</h4>
    if Xmovement ≠ OldX ...
@@ -60,16 +60,16 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 5. We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd
 
    <h4>Declaring and initiate the threshold variables</h4>
-   set Xdirection to 300
-   set Ydirection to 300  --> Deze waarde kan worden ingesteld naar eigen voorkeur
-   set Zdirection to 300
+   set Xdirection to 300 <br>
+   set Ydirection to 300  --> Deze waarde kan worden ingesteld naar eigen voorkeur <br>
+   set Zdirection to 300 <br>
 
    Ook hier zullen we een conditie schrijven die kijkt of de waarde van de treshold wordt overschreden
    (opnieuw gebruik van if statement)
 
 6. Vervolgens gaan we de bluetooth feature activeren.
-   - Onze micro:bit zal communiceren via een Android smartphone.
-   - Communicatie via *Bluetooth Eddystone URL*
-   - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze *Bluetooth Eddystone URL*
+   - Onze micro:bit zal communiceren via een Android smartphone. <br>
+   - Communicatie via 'Bluetooth Eddystone URL' <br>
+   - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze 'Bluetooth Eddystone URL' <br>
 
 
