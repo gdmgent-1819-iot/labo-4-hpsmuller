@@ -23,22 +23,18 @@ Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de admin
 
 
 
-
-
-<!-- ////////// -->
-
 <h1>De micro:bit gebruiken als tracker voor je huisdier</h1>
 
 De micro:bit sensoren voorzien ook de mogelijkheid om oriëntatie en beweging te registreren.
 Dit deed ons denken in de richting van een tracker voor huisdieren.
 
-<!-- Aanpak -->
+   *Aanpak*
 
 1. Als eerste maken we een oneindige loop aan, daar binnen zal alle code voor de tracking zich bevinden.
 
 2. Vervolgens maken we 3 variabelen aan die de waarden van de accelerometer bijhouden.
 
-   <!-- Declaring the variables that will hold the changes in movement -->
+   *Declaring the variables that will hold the changes in movement*
    Xdirection
    Ydirection
    Zdirection
@@ -46,24 +42,24 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 3. Hierna zorgen we ervoor dat de variabelen de waarden bevatten conform de beweging van de accelerometer.
    De code zal er ongeveer uit zien als volgt
 
-   <!-- Variables holding the new coordinates -->
+   *Variables holding the new coordinates*
    set Xmovement to acceleration (mg) X
    set Ymovement to acceleration (mg) Y
    set Zmovement to acceleration (mg) Z
 
 4. Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen.
 
-   <!-- Variables holding the old coordinates -->
+   *Variables holding the old coordinates*
    Xold
    Yold
    Zold
 
-   <!-- Logical operation, detect movement -->
+   *Logical operation, detect movement*
    if Xmovement ≠ OldX ...
 
 5. We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd
 
-   <!-- Declaring and initiate the threshold variables -->
+   *Declaring and initiate the threshold variables*
    set Xdirection to 300
    set Ydirection to 300  --> Deze waarde kan worden ingesteld naar eigen voorkeur
    set Zdirection to 300
@@ -76,10 +72,4 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
    - Communicatie via *Bluetooth Eddystone URL*
    - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze *Bluetooth Eddystone URL*
 
-7. 
-
-
-
-De microbit kan plug and play gebruikt worden op de raspberry pi net zoals op een desktop OS. Voor hem te gebruiken in Python code moet moet een import gebruikt worden:
-`from microbit import *`
 
