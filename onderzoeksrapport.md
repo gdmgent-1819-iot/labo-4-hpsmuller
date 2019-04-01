@@ -80,4 +80,6 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 
 
 
+De microbit kan plug and play gebruikt worden op de raspberry pi net zoals op een desktop OS. Voor hem te gebruiken in Python code moet moet een import gebruikt worden:
+`from microbit import *`
 
