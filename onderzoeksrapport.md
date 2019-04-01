@@ -15,3 +15,9 @@ Zo kunnen we in javascript code schrijven die de invoer van de lichtsensor op de
 Dit script kan op de micro:bit zelfstandig draaien waardoor meerdere micro:bits tegelijk dit script draaien en is het makkelijk om extra micro:bits toe te voegen en/of verwijderen uit het systeem. Na het ontvangen van bepaalde signalen van de micro:bit(s) kan de raspberry pi deze gebruiken om bepaalde outpot te genereren.
 
 Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de administrator sturen, visuele signalen terugsturen naar desbetreffende micro:bit, ...
+
+<h2>Concrete aanpak</h2>
+
+1. <h3>Installatie</h3>
+De microbit kan plug and play gebruikt worden op de raspberry pi net zoals op een desktop OS. Voor hem te gebruiken in Python code moet moet een import gebruikt worden:
+`from microbit import *`
