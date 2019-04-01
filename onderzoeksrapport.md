@@ -73,3 +73,4 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
    - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze 'Bluetooth Eddystone URL' <br>
 
 
+s
