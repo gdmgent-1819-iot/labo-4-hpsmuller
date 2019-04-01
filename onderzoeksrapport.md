@@ -50,9 +50,11 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 4. Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen.
 
    <h4>Variables holding the old coordinates</h4>
-   `Xold` <br>
-   `Yold` <br>
-   `Zold` <br>
+   `Xold`
+   <br>
+   `Yold`
+   <br>
+   `Zold`
 
    <h4>Logical operation, detect movement</h4>
    `if Xmovement ≠ OldX ...`<br>
