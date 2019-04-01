@@ -34,7 +34,7 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 
 2. Vervolgens maken we 3 variabelen aan die de waarden van de accelerometer bijhouden.
 
-   *Declaring the variables that will hold the changes in movement*
+   <h4>Declaring the variables that will hold the changes in movement</h4>
    Xdirection
    Ydirection
    Zdirection
@@ -42,24 +42,24 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 3. Hierna zorgen we ervoor dat de variabelen de waarden bevatten conform de beweging van de accelerometer.
    De code zal er ongeveer uit zien als volgt
 
-   *Variables holding the new coordinates*
+   <h4>Variables holding the new coordinates</h4>
    set Xmovement to acceleration (mg) X
    set Ymovement to acceleration (mg) Y
    set Zmovement to acceleration (mg) Z
 
 4. Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen.
 
-   *Variables holding the old coordinates*
+   <h4>Variables holding the old coordinates</h4>
    Xold
    Yold
    Zold
 
-   *Logical operation, detect movement*
+   <h4>Logical operation, detect movement</h4>
    if Xmovement ≠ OldX ...
 
 5. We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd
 
-   *Declaring and initiate the threshold variables*
+   <h4>Declaring and initiate the threshold variables</h4>
    set Xdirection to 300
    set Ydirection to 300  --> Deze waarde kan worden ingesteld naar eigen voorkeur
    set Zdirection to 300
