@@ -21,3 +21,4 @@ Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de admin
 1. <h3>Installatie</h3>
 De microbit kan plug and play gebruikt worden op de raspberry pi net zoals op een desktop OS. Voor hem te gebruiken in Python code moet moet een import gebruikt worden:
 `from microbit import *`
+
