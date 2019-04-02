@@ -1,5 +1,7 @@
 <h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
+![](images/microbit.jpg)
+
 **1..** Eerst en vooral willen we graag de bluetooth communicatie mogelijk maken tussen beide apparaten.
    De bluetooth in werking zetten op de Raspberry Pi kunnen we eenvoudig doen door BlueZ te installeren. Dit is de bluetooth stack voor linux. Hierna kan bluetooth gebruikt worden op je Pi.
 
