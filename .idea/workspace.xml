@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="237">
-                <caret line="24" column="173" selection-start-line="24" selection-start-column="173" selection-end-line="24" selection-end-column="173" />
+              <first_editor relative-caret-position="310">
+                <caret line="26" column="83" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="83" />
               </first_editor>
               <second_editor />
             </state>
@@ -167,7 +167,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12051000" />
+    <option name="totallyTimeSpent" value="12121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,8 +239,8 @@
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="237">
-            <caret line="24" column="173" selection-start-line="24" selection-start-column="173" selection-end-line="24" selection-end-column="173" />
+          <first_editor relative-caret-position="310">
+            <caret line="26" column="83" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="83" />
           </first_editor>
           <second_editor />
         </state>
