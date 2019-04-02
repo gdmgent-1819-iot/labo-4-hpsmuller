@@ -66,12 +66,10 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 
 5. We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd
 
-   ```
    <h4>Declaring and initiate the threshold variables</h4>
    set Xdirection to 300<br>
    set Ydirection to 300  --> Deze waarde kan worden ingesteld naar eigen voorkeur <br>
-   set Zdirection to 300 <br>
-   ```
+   `set Zdirection to 300` <br>
 
    Ook hier zullen we een conditie schrijven die kijkt of de waarde van de treshold wordt overschreden
    (opnieuw gebruik van if statement)
