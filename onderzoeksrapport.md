@@ -22,7 +22,6 @@ Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de admin
    from microbit import *
 
 
-
 <h1>De micro:bit gebruiken als tracker voor je huisdier</h1>
 
 De micro:bit sensoren voorzien ook de mogelijkheid om oriëntatie en beweging te registreren.
@@ -34,23 +33,26 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 
 2. Vervolgens maken we 3 variabelen aan die de waarden van de accelerometer bijhouden.
 
-   <h4>Declaring the variables that will hold the changes in movement</h4>
    ```
-   Xdirection
-   ``` <br><br>
+   <h4>Declaring the variables that will hold the changes in movement</h4>
+   Xdirection<br><br>
    Ydirection <br><br>
    Zdirection <br>
+   ```
 
 3. Hierna zorgen we ervoor dat de variabelen de waarden bevatten conform de beweging van de accelerometer.
    De code zal er ongeveer uit zien als volgt
 
+   ```
    <h4>Variables holding the new coordinates</h4>
    set Xdirection to acceleration (mg) X <br><br>
    set Ydirection to acceleration (mg) Y <br><br>
    set Zdirection to acceleration (mg) Z <br>
+   ```
 
 4. Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen.
 
+   ```
    <h4>Variables holding the old coordinates</h4>
    Xold
    <br>
@@ -60,13 +62,16 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 
    <h4>Logical operation, detect movement</h4>
    if Xmovement ≠ OldX ...<br>
+   ```
 
 5. We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd
 
+   ```
    <h4>Declaring and initiate the threshold variables</h4>
    set Xdirection to 300<br>
    set Ydirection to 300  --> Deze waarde kan worden ingesteld naar eigen voorkeur <br>
    set Zdirection to 300 <br>
+   ```
 
    Ook hier zullen we een conditie schrijven die kijkt of de waarde van de treshold wordt overschreden
    (opnieuw gebruik van if statement)
@@ -75,12 +80,6 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
    - Onze micro:bit zal communiceren via een Android smartphone. <br>
    - Communicatie via 'Bluetooth Eddystone URL' <br>
    - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze 'Bluetooth Eddystone URL' <br>
-   
-
-
-   ```   
-   Wordt code aub
-   ```
    
 
 Deze techniek kan voor verscheidene vormen van output zorgen:
