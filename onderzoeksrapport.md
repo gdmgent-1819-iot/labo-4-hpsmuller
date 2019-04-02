@@ -76,9 +76,13 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
    - Communicatie via 'Bluetooth Eddystone URL' <br>
    - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze 'Bluetooth Eddystone URL' <br>
    
+
+
+   ```   
+   Wordt code aub
    ```
-Wordt code aub
-```
+   
+
 Deze techniek kan voor verscheidene vormen van output zorgen:
 <li>De periodes waarin geen beweging gedetecteerd werd loggen om te zien wanneer je huisdier slaapt of rust.</li>
 <li>De microbit bevestigen aan de voederbak waardoor wanneer het dier eet, de kleinste beweging van de bak gedetecteerd wordt en een melding stuurt naar de user.
