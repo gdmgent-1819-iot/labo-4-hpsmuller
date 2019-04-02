@@ -1,3 +1,23 @@
+<h1>De micro:bit</h1>
+
+Sinds 2016 is de Micro:bit, ontwikkeld door de BBC, online verkrijgbaar. Wij lichten graag kort even toe wat de Micro:bit is en wat we ermee kunnen doen.
+
+De kaart is uitermate geschikt voor het programmeren van wearables, mobiele toepassingen ... Kortom voor IoT development. 
+
+In de eerste plaats werd de kaart ontwikkeld om programmeren bij kinderen te stimuleren. Deze indicatie vinden we ook al terug wanneer we kijken naar het ontwerp. De kleuren zorgen voor een toegankelijk design voor kinderen. De verschillende elementen op de kaart zouden een gezichtje moeten voorstellen.
+
+Om de veiligheid van het device te waarborgen werd gekozen voor een externe batterijhouder die de kaart voedt.
+
+**specificaties**
+- 52 x 42 mm microcontroller-board
+- bedoeld voor draadloze toepassingen
+- Nordic nRF51822 ARM Cortex-M0 microcontroller met geïntegreerde Bluetooth Low Energy (BLE) interface (componentenzijde)
+- een 3D-versnellingsopnemer (NXP MMA 8652) (componentenzijde)
+- een 3D-magnetometer (NXP MAG 3110) (componentenzijde)
+- een uitbreidingsconnector (componentenzijde)
+- Op de andere kant vinden we een 5 x 5 LED-matrix en twee drukknoppen
+- mogelijkheid om met drag-and-drop te programmeren, via usb en OTA (Over The Air) dankzij de Bluetooth-interface
+
 <h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
 ![](images/microbit_front.jpg)
