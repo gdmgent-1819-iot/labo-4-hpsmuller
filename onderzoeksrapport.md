@@ -8,7 +8,15 @@ De kaart is uitermate geschikt voor het programmeren van wearables, mobiele toep
 
 In de eerste plaats werd de kaart ontwikkeld om programmeren bij kinderen te stimuleren. Deze indicatie vinden we ook al terug wanneer we kijken naar het ontwerp. De kleuren zorgen voor een toegankelijk design voor kinderen. De verschillende elementen op de kaart zouden een gezichtje moeten voorstellen.
 
-Om de veiligheid van het device te waarborgen werd gekozen voor een externe batterijhouder die de kaart voedt.
+De micro:bit kan op 2 manieren van stroom worden voorzien:
+
+Stoomvoorziening werd met belang voor veiligheid ontwikkeld.
+
+1.. **Micro-USB**<br>
+Een simpele USB-A naar Micro-USB kabel kan de micro:bit van stroom voorzien, dit sluit je best aan op een standaard 5V USB poort van je computer. Hiermee kan je ook makkelijk je nieuwe of aangepaste code installeren op de micro:bit.
+
+2.. **Batterij**<br>
+Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of alkaline batterijen van type AAA. Wanneer de batterij is aangesloten wanneer een Micro-USB kabel wordt aangesloten, dan zal de micro:bit automatisch overschakelen op de USB-stroom.
 
 **specificaties**
 - 52 x 42 mm microcontroller-board
