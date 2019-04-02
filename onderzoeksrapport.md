@@ -1,5 +1,7 @@
 <h1>De micro:bit</h1>
 
+![](images/microbit_front.jpg)
+
 Sinds 2016 is de Micro:bit, ontwikkeld door de BBC, online verkrijgbaar. Wij lichten graag kort even toe wat de Micro:bit is en wat we ermee kunnen doen.
 
 De kaart is uitermate geschikt voor het programmeren van wearables, mobiele toepassingen ... Kortom voor IoT development. 
@@ -18,9 +20,16 @@ Om de veiligheid van het device te waarborgen werd gekozen voor een externe batt
 - Op de andere kant vinden we een 5 x 5 LED-matrix en twee drukknoppen
 - mogelijkheid om met drag-and-drop te programmeren, via usb en OTA (Over The Air) dankzij de Bluetooth-interface
 
+<br>
+
+<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/>
+<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/>
+<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>
+
+
+
 <h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
-![](images/microbit_front.jpg)
 
 **1..** Eerst en vooral willen we graag de bluetooth communicatie mogelijk maken tussen beide apparaten.
    De bluetooth in werking zetten op de Raspberry Pi kunnen we eenvoudig doen door BlueZ te installeren. Dit is de bluetooth stack voor linux. Hierna kan bluetooth gebruikt worden op je Pi.
