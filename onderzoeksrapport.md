@@ -35,7 +35,7 @@ Dit deed ons denken in de richting van een tracker voor huisdieren.
 2. Vervolgens maken we 3 variabelen aan die de waarden van de accelerometer bijhouden.
 
    <h4>Declaring the variables that will hold the changes in movement</h4>
-   `Xdirection` <br><br>
+   ```Xdirection``` <br><br>
    Ydirection <br><br>
    Zdirection <br>
 
