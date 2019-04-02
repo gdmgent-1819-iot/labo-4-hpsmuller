@@ -1,4 +1,4 @@
-<h1>De micro:bit</h1>
+<h1>De BBC Micro:bit</h1>
 
 ![](images/microbit_front.jpg)
 
@@ -22,9 +22,9 @@ Om de veiligheid van het device te waarborgen werd gekozen voor een externe batt
 
 <br>
 
-<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/>
-<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/>
-<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>
+**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/>**
+**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/>**
+**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>**
 
 
 
