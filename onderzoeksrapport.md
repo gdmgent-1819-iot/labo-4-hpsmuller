@@ -22,21 +22,9 @@ Om de veiligheid van het device te waarborgen werd gekozen voor een externe batt
 
 <br>
 
-
-<figure style="display:block">
-  <img src="images/microbit_button.jpg" alt="button" style="width:30%">
-  <figcaption>De micro:bit bevat 3 knopjes: 2 die aanspreekbaar zijn in de code (A en B), en achteraan een reset button.</figcaption>
-</figure>
-
-<figure style="display:block">
-  <img src="images/microbit_front_2.jpg" alt="button" style="width:30%">
-  <figcaption>De micro:bit bevat 3 knopjes: 2 die aanspreekbaar zijn in de code (A en B), en achteraan een reset button.</figcaption>
-</figure>
-
-<figure style="display:block">
-  <img src="images/microbit_connectors.jpg" alt="button" style="width:30%">
-  <figcaption>De micro:bit bevat 3 knopjes: 2 die aanspreekbaar zijn in de code (A en B), en achteraan een reset button.</figcaption>
-</figure>
+**<img src="images/microbit_button.jpg" alt="drawing" width="33%; display:block"/>De micro:bit bevat 3 knopjes: 2 die aanspreekbaar zijn in de code (A en B), en achteraan een reset button.**
+**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%; display:block"/>**
+**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%; display:block"/>**
 
 
 
