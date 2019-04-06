@@ -8,9 +8,8 @@ De kaart is uitermate geschikt voor het programmeren van wearables, mobiele toep
 
 In de eerste plaats werd de kaart ontwikkeld om programmeren bij kinderen te stimuleren. Deze indicatie vinden we ook al terug wanneer we kijken naar het ontwerp. De kleuren zorgen voor een toegankelijk design voor kinderen. De verschillende elementen op de kaart zouden een gezichtje moeten voorstellen.
 
-De micro:bit kan op 2 manieren van stroom worden voorzien:
-
 Stoomvoorziening werd met belang voor veiligheid ontwikkeld.
+De micro:bit kan op 2 manieren van stroom worden voorzien:
 
 1.. **Micro-USB**<br>
 Een simpele USB-A naar Micro-USB kabel kan de micro:bit van stroom voorzien, dit sluit je best aan op een standaard 5V USB poort van je computer. Hiermee kan je ook makkelijk je nieuwe of aangepaste code installeren op de micro:bit.
