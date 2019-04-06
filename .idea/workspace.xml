@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <first_editor relative-caret-position="92">
+                <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,7 +142,7 @@
       <workItem from="1554192350545" duration="972000" />
       <workItem from="1554194680584" duration="2446000" />
       <workItem from="1554213390439" duration="105000" />
-      <workItem from="1554543271828" duration="280000" />
+      <workItem from="1554543271828" duration="403000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -193,11 +193,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554543733027</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" spelling 2">
+      <created>1554543776689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554543776689</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13053000" />
+    <option name="totallyTimeSpent" value="13176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,7 +231,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.6881119" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21678321" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -252,15 +259,16 @@
     <MESSAGE value="bug" />
     <MESSAGE value="st(r)oom" />
     <MESSAGE value="spelling" />
-    <option name="LAST_COMMIT_MESSAGE" value="spelling" />
+    <MESSAGE value=" spelling 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" spelling 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TODO.md" />
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <first_editor relative-caret-position="92">
+            <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
