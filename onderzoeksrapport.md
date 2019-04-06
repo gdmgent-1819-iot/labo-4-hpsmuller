@@ -70,7 +70,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
    
 
 **3..** Hierna zorgen we ervoor dat de variabelen de waarden bevatten conform de beweging van de accelerometer.
-   De code zal er ongeveer uit zien als volgt
+   De code zal er ongeveer uit zien als volgt:
 
    <h4>Variables holding the new coordinates</h4>
 
@@ -80,7 +80,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
          set Zdirection to acceleration (mg) Z
    
 
-**4..** Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen.
+**4..** Om verandering te registreren zullen we ook data moeten bijhouden die de huidige locatie vastlegt. Deze data wordt dan vergeleken met de nieuwe data. Deze logica kunnen we als volgt uitbouwen:
 
    <h4>Variables holding the old coordinates</h4>
 
@@ -89,12 +89,12 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
          Zold
    
 
-<h4>Logical operation, detect movement</h4>
+    <h4>Logical operation, detect movement</h4>
    
          if Xmovement ≠ OldX ...<br>
          
 
-**5..** We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd
+**5..** We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd:
 
    <h4>Declaring and initiate the threshold variables</h4>
 
@@ -103,21 +103,21 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
          set Ydirection to 300
          set Zdirection to 300
 
-   *Deze waarde kan worden ingesteld naar eigen voorkeur*
+   *Deze waarde kan worden ingesteld naar eigen voorkeur.*
          
 
    Ook hier zullen we een conditie schrijven die kijkt of de waarde van de treshold wordt overschreden
-   (opnieuw gebruik van if statement)
+   (opnieuw gebruik van if statement).
 
 **6..** Vervolgens gaan we de bluetooth feature activeren.
-   - Onze micro:bit zal communiceren via een Android smartphone. <br>
-   - Communicatie via 'Bluetooth Eddystone URL' <br>
-   - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze 'Bluetooth Eddystone URL' <br>
+   - Onze micro:bit zal communiceren via een Android smartphone<br>
+   - Communicatie via 'Bluetooth Eddystone URL'<br>
+   - Principe is dat de applicatie op ieder moment in staat is om de micro:bit te tracken volgens deze 'Bluetooth Eddystone URL'<br>
    
 
 **Deze techniek kan voor verscheidene vormen van output zorgen:**
 
-**De periodes waarin geen beweging gedetecteerd werd loggen om te zien wanneer je huisdier slaapt of rust.**
+**De periodes waarin geen beweging gedetecteerd werd, loggen om te zien wanneer je huisdier slaapt of rust.**
 
 **De microbit bevestigen aan de voederbak waardoor wanneer het dier eet, de kleinste beweging van de bak gedetecteerd wordt en een melding stuurt naar de user.**
 
