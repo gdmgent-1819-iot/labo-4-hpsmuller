@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,7 +142,7 @@
       <workItem from="1554192350545" duration="972000" />
       <workItem from="1554194680584" duration="2446000" />
       <workItem from="1554213390439" duration="105000" />
-      <workItem from="1554543271828" duration="115000" />
+      <workItem from="1554543271828" duration="280000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -172,11 +172,32 @@
       <option name="project" value="LOCAL" />
       <updated>1554201908699</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bug">
+      <created>1554543608757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554543608757</updated>
+    </task>
+    <task id="LOCAL-00006" summary="st(r)oom">
+      <created>1554543651336</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554543651336</updated>
+    </task>
+    <task id="LOCAL-00007" summary="spelling">
+      <created>1554543733027</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554543733027</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12888000" />
+    <option name="totallyTimeSpent" value="13053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,15 +249,18 @@
     <MESSAGE value="oi" />
     <MESSAGE value="basic style" />
     <MESSAGE value="image test" />
-    <option name="LAST_COMMIT_MESSAGE" value="image test" />
+    <MESSAGE value="bug" />
+    <MESSAGE value="st(r)oom" />
+    <MESSAGE value="spelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="spelling" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TODO.md" />
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>

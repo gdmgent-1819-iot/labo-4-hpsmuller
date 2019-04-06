@@ -19,13 +19,13 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 **Specificaties**
 - 52 x 42 mm microcontroller-board
-- bedoeld voor draadloze toepassingen
+- Bedoeld voor draadloze toepassingen
 - Nordic nRF51822 ARM Cortex-M0 microcontroller met geïntegreerde Bluetooth Low Energy (BLE) interface (componentenzijde)
 - 3D-versnellingsopnemer (NXP MMA 8652) (componentenzijde)
 - 3D-magnetometer (NXP MAG 3110) (componentenzijde)
-- uitbreidingsconnector (componentenzijde)
+- Uitbreidingsconnector (componentenzijde)
 - Op de andere kant vinden we een 5 x 5 LED-matrix en twee drukknoppen
-- mogelijkheid om met drag-and-drop te programmeren, via usb en OTA (Over The Air) dankzij de Bluetooth-interface
+- Mogelijkheid om met drag-and-drop te programmeren, via usb en OTA (Over The Air) dankzij de Bluetooth-interface
 
 <br>
 
