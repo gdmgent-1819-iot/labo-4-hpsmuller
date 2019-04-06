@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56279835-dd16-476b-8880-c8c13cc8faab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/onderzoeksrapport.md" beforeDir="false" afterPath="$PROJECT_DIR$/onderzoeksrapport.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+              <first_editor relative-caret-position="182">
+                <caret line="48" column="183" selection-start-line="48" selection-start-column="183" selection-end-line="48" selection-end-column="183" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,7 +141,7 @@
       <workItem from="1554192350545" duration="972000" />
       <workItem from="1554194680584" duration="2446000" />
       <workItem from="1554213390439" duration="105000" />
-      <workItem from="1554543271828" duration="403000" />
+      <workItem from="1554543271828" duration="469000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -204,7 +203,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13176000" />
+    <option name="totallyTimeSpent" value="13242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,8 +266,8 @@
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <first_editor relative-caret-position="182">
+            <caret line="48" column="183" selection-start-line="48" selection-start-column="183" selection-end-line="48" selection-end-column="183" />
           </first_editor>
           <second_editor />
         </state>
