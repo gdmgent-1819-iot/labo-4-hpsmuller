@@ -17,13 +17,13 @@ Een simpele USB-A naar Micro-USB kabel kan de micro:bit van stroom voorzien, dit
 2.. **Batterij**<br>
 Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of alkaline batterijen van type AAA. Wanneer de batterij is aangesloten wanneer een Micro-USB kabel wordt aangesloten, dan zal de micro:bit automatisch overschakelen op de USB-stroom.
 
-**specificaties**
+**Specificaties**
 - 52 x 42 mm microcontroller-board
 - bedoeld voor draadloze toepassingen
 - Nordic nRF51822 ARM Cortex-M0 microcontroller met geïntegreerde Bluetooth Low Energy (BLE) interface (componentenzijde)
-- een 3D-versnellingsopnemer (NXP MMA 8652) (componentenzijde)
-- een 3D-magnetometer (NXP MAG 3110) (componentenzijde)
-- een uitbreidingsconnector (componentenzijde)
+- 3D-versnellingsopnemer (NXP MMA 8652) (componentenzijde)
+- 3D-magnetometer (NXP MAG 3110) (componentenzijde)
+- uitbreidingsconnector (componentenzijde)
 - Op de andere kant vinden we een 5 x 5 LED-matrix en twee drukknoppen
 - mogelijkheid om met drag-and-drop te programmeren, via usb en OTA (Over The Air) dankzij de Bluetooth-interface
 
