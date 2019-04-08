@@ -31,9 +31,9 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 <br>
 
-**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/><br>**
-**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/><br>**
-**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>**
+**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/>De processor van de Micro:Bit<br>**
+**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/>Voorkant van de Micro:Bit waar je de 2 buttons en leds kan zien<br>**
+**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>De batterij aansluiting, de reset button en de micro-usb aansluiting**
 
 
 
@@ -123,7 +123,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **Een goede manier hiervoor lijkt mij het gebruik van IFTTT, hierbij kan vanuit python een http-request naar de Webhooks-service van IFTTT gestuurd worden, die dan op zijn beurt een android melding, een email of een sms kan sturen naar de user.</li>**
 
 
-<h4>Gebruik van micro:bit met smartphone</h4>
+<h1>Gebruik van micro:bit met smartphone</h1>
 
 **Foto trekken en rear/front camera togglen met micro:bit buttons**
 
