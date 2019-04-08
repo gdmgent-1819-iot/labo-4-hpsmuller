@@ -36,6 +36,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/><br>De batterij aansluiting, de reset button en de micro-usb aansluiting**
 
 
+<br><br><br>
 
 <h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
@@ -52,6 +53,8 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
    **Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de administrator sturen, visuele signalen terugsturen naar desbetreffende micro:bit ...**
 
+
+<br><br><br>
 
 <h1>De Micro:bit gebruiken als tracker voor je huisdier</h1>
 
@@ -140,6 +143,8 @@ Met deze korte code kunnen we dit voor mekaar krijgen.
          })
 
          basic.showString("A=photo B=front-rear")
+         
+<br><br><br>
          
 **Compass feature met micro:bit**
 
