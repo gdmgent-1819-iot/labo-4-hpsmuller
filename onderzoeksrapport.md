@@ -8,6 +8,8 @@ De kaart is uitermate geschikt voor het programmeren van wearables, mobiele toep
 
 In de eerste plaats werd de kaart ontwikkeld om programmeren bij kinderen te stimuleren. Deze indicatie vinden we ook al terug wanneer we kijken naar het ontwerp. De kleuren zorgen voor een toegankelijk design voor kinderen. De verschillende elementen op de kaart zouden een gezichtje moeten voorstellen.
 
+Code voor de Micro:bit kan geschreven worden in onder andere Javascript en Python, maar deze worden eerst omgezet naar MicroPython vooraleer de Micro:Bit deze kan uitvoeren. 
+
 Stroomvoorziening werd met belang voor veiligheid ontwikkeld.
 De micro:bit kan op 2 manieren van stroom worden voorzien:
 
