@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56279835-dd16-476b-8880-c8c13cc8faab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/partials/lightsensor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="56279835-dd16-476b-8880-c8c13cc8faab" name="Default Changelist" comment="images">
       <change beforePath="$PROJECT_DIR$/onderzoeksrapport.md" beforeDir="false" afterPath="$PROJECT_DIR$/onderzoeksrapport.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="349">
-                <caret line="35" column="139" selection-start-line="35" selection-start-column="139" selection-end-line="35" selection-end-column="139" />
+              <first_editor relative-caret-position="270">
+                <caret line="35" column="75" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,7 +160,7 @@
       <workItem from="1554664103270" duration="908000" />
       <workItem from="1554723261838" duration="31000" />
       <workItem from="1554723336218" duration="1195000" />
-      <workItem from="1554731260556" duration="432000" />
+      <workItem from="1554731260556" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -245,7 +243,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16295000" />
+    <option name="totallyTimeSpent" value="16337000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,8 +337,8 @@
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="349">
-            <caret line="35" column="139" selection-start-line="35" selection-start-column="139" selection-end-line="35" selection-end-column="139" />
+          <first_editor relative-caret-position="270">
+            <caret line="35" column="75" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
           </first_editor>
           <second_editor />
         </state>

@@ -31,9 +31,9 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 <br>
 
-**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/>De processor van de Micro:Bit<br>**
-**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/>Voorkant van de Micro:Bit waar je de 2 buttons en leds kan zien<br>**
-**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>De batterij aansluiting, de reset button en de micro-usb aansluiting**
+**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/><br>De processor van de Micro:Bit<br>**
+**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/><br>Voorkant van de Micro:Bit waar je de 2 buttons en leds kan zien<br>**
+**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/><br>De batterij aansluiting, de reset button en de micro-usb aansluiting**
 
 
 
