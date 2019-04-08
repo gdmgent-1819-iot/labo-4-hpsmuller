@@ -55,13 +55,13 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 <h4>Setup</h4>
 
-**1.. Dependencies installeren**
+**1.. Dependencies installeren**<br>
 Eerst en vooral moet bluezero worden geinstalleerd, dit kan eenvoudig door volgend commando:
 
     sudo pip3 install bluezero
     sudo reboot
 
-**2.. Bluetooth instellen**
+**2.. Bluetooth instellen**<br>
 Met volgende commando activeer je de bluetooth tool:
 
     sudo bluetoothctl
@@ -113,7 +113,7 @@ En dan kan de de scan starten
 
 Wanneer de microbit in de lijst staat dien je het adres te kopieren (heeft volgende structuur: yy:yy:yy:yy:yy:yy)
 
-**3.. De Micro:Bit pairen**
+**3.. De Micro:Bit pairen**<br>
 Nu moeten we de micro:bit pairen aan de raspberry pi door eerst de micro:bit in pairing modus te brengen. Dit gebeurd door beide buttons ingedrukt te houden en kort op de reset button te drukken. Houd de buttons (behalve de reset button) tot het bluetooth logo op de led matrix verschijnt, dan mag je alle buttons los laten. Nu kan je pairen door volgend commando:
 
     pair yy:yy:yy:yy:yy:yy
