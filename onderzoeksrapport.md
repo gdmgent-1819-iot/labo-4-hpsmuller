@@ -35,12 +35,9 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/><br>Voorkant van de Micro:Bit waar je de 2 buttons en leds kan zien<br>**
 **<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/><br>De batterij aansluiting, de reset button en de micro-usb aansluiting**
 
-<<<<<<< HEAD
-=======
 
 <br><br><br>
 
->>>>>>> c018cfbeca4574cc0e087211f069f03a25c36bf3
 <h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
 
