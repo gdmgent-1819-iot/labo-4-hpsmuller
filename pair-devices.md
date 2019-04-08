@@ -11,10 +11,8 @@ $ sudo bluetoothctl
 [bluetooth]# scan on
     Discovery started
     [CHG] Controller B8:27:EB:C5:E9:31 Discovering: yes
-    [CHG] Device D0:F5:DF:C0:AE:95 RSSI: -61
     [CHG] Device D0:F5:DF:C0:AE:95 Name: BBC micro:bit
     [CHG] Device D0:F5:DF:C0:AE:95 Alias: BBC micro:bit
-    [CHG] Device 90:03:B7:C9:9C:D8 RSSI: -80
 
 [bluetooth]# paired-devices
     Device D0:F5:DF:C0:AE:95 BBC micro:bit

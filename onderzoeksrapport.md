@@ -35,8 +35,6 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/><br>**
 **<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>**
 
-
-
 <h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
 
@@ -128,7 +126,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **Foto trekken en rear/front camera togglen met micro:bit buttons**
 
 Een andere leuke feature waarvoor we de micro:bit kunnen gebruiken is als remote voor onze smartphone.
-Via een druk op de A knop van deze micro:bit kunnen we ons beeld vastleggen. De knop fungeert dan eigenlijk als onze camera trigger button. 
+Via een druk op de A knop van deze micro:bit kunnen we ons beeld vastleggen. De knop fungeert dan eigenlijk als onze camera trigger button. Ook is het mogelijk om te switchen tussen front en rear camera. In deze code gebruiken we hiervoor de B toets.
 Met deze korte code kunnen we dit voor mekaar krijgen.
 
          input.onButtonPressed(Button.A, function() {
