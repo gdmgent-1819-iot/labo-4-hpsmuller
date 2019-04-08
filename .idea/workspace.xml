@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56279835-dd16-476b-8880-c8c13cc8faab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/partials/intro.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/partials/intro.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,7 +51,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="190" selection-start-column="190" selection-end-column="190" />
+                <caret column="310" selection-start-column="298" selection-end-column="310" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,7 +141,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,7 +180,7 @@
       <workItem from="1554723336218" duration="1195000" />
       <workItem from="1554731260556" duration="3271000" />
       <workItem from="1554738462231" duration="10000" />
-      <workItem from="1554745603830" duration="361000" />
+      <workItem from="1554745603830" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -287,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554734345995</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="start intro">
+      <created>1554745996799</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554745996799</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19505000" />
+    <option name="totallyTimeSpent" value="19778000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,9 +311,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17836677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17836677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,7 +324,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.6881119" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21678321" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21621622" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -352,7 +358,8 @@
     <MESSAGE value="images" />
     <MESSAGE value="struct" />
     <MESSAGE value="example_leds" />
-    <option name="LAST_COMMIT_MESSAGE" value="example_leds" />
+    <MESSAGE value="start intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="start intro" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TODO.md" />
@@ -398,7 +405,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="190" selection-start-column="190" selection-end-column="190" />
+            <caret column="310" selection-start-column="298" selection-end-column="310" />
           </first_editor>
           <second_editor />
         </state>
