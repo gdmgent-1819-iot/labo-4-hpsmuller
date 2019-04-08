@@ -53,7 +53,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
    **Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de administrator sturen, visuele signalen terugsturen naar desbetreffende micro:bit ...**
 
-<h2>Setup</h2>
+<h4>Setup</h4>
 
 **1.. Dependencies installeren**
 Eerst en vooral moet bluezero worden geinstalleerd, dit kan eenvoudig door volgend commando:
