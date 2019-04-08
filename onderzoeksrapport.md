@@ -159,7 +159,7 @@ En nu ben je gepaired
          Yold
          Zold
    
-    <h4>Logical operation, detect movement</h4>
+<h4>Logical operation, detect movement</h4>
    
          if Xmovement ≠ OldX ...<br>
          
