@@ -31,8 +31,8 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 <br>
 
-**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/>**
-**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/>**
+**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/><br>**
+**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/><br>**
 **<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>**
 
 

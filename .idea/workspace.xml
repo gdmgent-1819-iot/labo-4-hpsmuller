@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56279835-dd16-476b-8880-c8c13cc8faab" name="Default Changelist" comment="s5">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/onderzoeksrapport.md" beforeDir="false" afterPath="$PROJECT_DIR$/onderzoeksrapport.md" afterDir="false" />
     </list>
@@ -21,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="172" selection-start-line="10" selection-start-column="172" selection-end-line="10" selection-end-column="172" />
+              <first_editor relative-caret-position="215">
+                <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,12 +98,13 @@
             <path>
               <item name="labo-4-hpsmuller" type="b2602c69:ProjectViewProjectNode" />
               <item name="labo-4-hpsmuller" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,6 +148,8 @@
       <workItem from="1554213390439" duration="105000" />
       <workItem from="1554543271828" duration="956000" />
       <workItem from="1554664103270" duration="908000" />
+      <workItem from="1554723261838" duration="31000" />
+      <workItem from="1554723336218" duration="452000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -224,7 +225,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14637000" />
+    <option name="totallyTimeSpent" value="15120000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,7 +240,7 @@
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16690545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17120343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -289,8 +290,8 @@
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="172" selection-start-line="10" selection-start-column="172" selection-end-line="10" selection-end-column="172" />
+          <first_editor relative-caret-position="215">
+            <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
           </first_editor>
           <second_editor />
         </state>
