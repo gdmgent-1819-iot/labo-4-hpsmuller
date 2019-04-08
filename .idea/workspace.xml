@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="367">
-                <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <first_editor relative-caret-position="383">
+                <caret line="127" column="12" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,7 +160,7 @@
       <workItem from="1554664103270" duration="908000" />
       <workItem from="1554723261838" duration="31000" />
       <workItem from="1554723336218" duration="1195000" />
-      <workItem from="1554731260556" duration="587000" />
+      <workItem from="1554731260556" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -243,7 +243,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16450000" />
+    <option name="totallyTimeSpent" value="16485000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,8 +337,8 @@
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="367">
-            <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <first_editor relative-caret-position="383">
+            <caret line="127" column="12" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>

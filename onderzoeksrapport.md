@@ -36,9 +36,9 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/><br>De batterij aansluiting, de reset button en de micro-usb aansluiting**
 
 
+<br><br><br>
 
-
-<br><br><br><h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
+<h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
 
 **1..** Eerst en vooral willen we graag de bluetooth communicatie mogelijk maken tussen beide apparaten.
@@ -125,6 +125,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 **Een goede manier hiervoor lijkt mij het gebruik van IFTTT, hierbij kan vanuit python een http-request naar de Webhooks-service van IFTTT gestuurd worden, die dan op zijn beurt een android melding, een email of een sms kan sturen naar de user.</li>**
 
+<br><br><br>
 
 <h1>Gebruik van micro:bit met smartphone</h1>
 
@@ -144,7 +145,7 @@ Met deze korte code kunnen we dit voor mekaar krijgen.
 
          basic.showString("A=photo B=front-rear")
          
-<br><br><br>
+
          
 **Compass feature met micro:bit**
 
