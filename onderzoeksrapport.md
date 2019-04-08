@@ -31,10 +31,16 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 <br>
 
-**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/><br>**
-**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/><br>**
-**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/>**
+**<img src="images/microbit_chip.jpg" alt="drawing" width="33%"/><br>De processor van de Micro:Bit<br>**
+**<img src="images/microbit_front_2.jpg" alt="drawing" width="33%"/><br>Voorkant van de Micro:Bit waar je de 2 buttons en leds kan zien<br>**
+**<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/><br>De batterij aansluiting, de reset button en de micro-usb aansluiting**
 
+<<<<<<< HEAD
+=======
+
+<br><br><br>
+
+>>>>>>> c018cfbeca4574cc0e087211f069f03a25c36bf3
 <h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
 
 
@@ -50,6 +56,8 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
    **Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de administrator sturen, visuele signalen terugsturen naar desbetreffende micro:bit ...**
 
+
+<br><br><br>
 
 <h1>De Micro:bit gebruiken als tracker voor je huisdier</h1>
 
@@ -120,8 +128,9 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 **Een goede manier hiervoor lijkt mij het gebruik van IFTTT, hierbij kan vanuit python een http-request naar de Webhooks-service van IFTTT gestuurd worden, die dan op zijn beurt een android melding, een email of een sms kan sturen naar de user.</li>**
 
+<br><br><br>
 
-<h4>Gebruik van micro:bit met smartphone</h4>
+<h1>Gebruik van micro:bit met smartphone</h1>
 
 **Foto trekken en rear/front camera togglen met micro:bit buttons**
 
@@ -138,6 +147,8 @@ Met deze korte code kunnen we dit voor mekaar krijgen.
          })
 
          basic.showString("A=photo B=front-rear")
+         
+
          
 **Compass feature met micro:bit**
 
