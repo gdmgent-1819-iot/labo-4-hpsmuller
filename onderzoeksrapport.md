@@ -76,7 +76,6 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
    <h4>Variables holding the new coordinates</h4>
 
-         
          set Xdirection to acceleration (mg) X 
          set Ydirection to acceleration (mg) Y 
          set Zdirection to acceleration (mg) Z
@@ -90,7 +89,6 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
          Yold
          Zold
    
-
     <h4>Logical operation, detect movement</h4>
    
          if Xmovement ≠ OldX ...<br>
@@ -99,7 +97,6 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **5..** We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd:
 
    <h4>Declaring and initiate the threshold variables</h4>
-
 
          set Xdirection to 300
          set Ydirection to 300
@@ -126,4 +123,44 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **Een goede manier hiervoor lijkt mij het gebruik van IFTTT, hierbij kan vanuit python een http-request naar de Webhooks-service van IFTTT gestuurd worden, die dan op zijn beurt een android melding, een email of een sms kan sturen naar de user.</li>**
 
 
+<h4>Gebruik van micro:bit met smartphone</h4>
 
+**Foto trekken en rear/front camera togglen met micro:bit buttons**
+
+Een andere leuke feature waarvoor we de micro:bit kunnen gebruiken is als remote voor onze smartphone.
+Via een druk op de A knop van deze micro:bit kunnen we ons beeld vastleggen. De knop fungeert dan eigenlijk als onze camera trigger button. 
+Met deze korte code kunnen we dit voor mekaar krijgen.
+
+         input.onButtonPressed(Button.A, function() {
+            devices.tellCameraTo(MesCameraEvent.TakePhoto)
+         })
+
+         input.onButtonPressed(Button.B, function() {
+            devices.tellCameraTo(MesCameraEvent.ToggleFrontRear)
+         })
+
+         basic.showString("A=photo B=front-rear")
+         
+**Compass feature met micro:bit**
+
+Als tweede leuke feature kunnen we de micro:bit hanteren om ons te voorzien van de juiste windrichtingen.
+We spreken hiervoor de magnetometer aan die standaard aanwezig is in de micro:bit.
+Onze code zou er uitzien als volgt.
+
+         let degrees = 0
+         bluetooth.startMagnetometerService()
+         bluetooth.startLEDService()
+         degrees = input.compassHeading()
+         basic.showString("COMPASS")
+         basic.forever(function () {
+            degrees = input.compassHeading()
+            if(degrees < 45 || degrees > 315) {
+               basic.showString("N")
+            } else if (degrees < 135) {
+               basic.showString("E")
+            }  else if (degrees < 225) {
+               basic.showString("S") 
+            } else {
+               basic.showString("W")
+            }
+         })
