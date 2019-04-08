@@ -1,0 +1,1 @@
+In dit onderzoeksrapport worden de mogelijkheden van de BBC Micro:Bit bekeken. Ook wordt onderzocht in welke mate deze kan samenwerken met de Raspberry Pi door middel van enkele voorbeelden.
