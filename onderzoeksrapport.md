@@ -253,8 +253,6 @@ Onze code zou er uitzien als volgt.
 <h2>Besluit</h2>
 
 Met deze laatste toepassing hadden wij graag ons onderzoek afgesloten.
-
 Op basis van voorafgaande voorbeelden en beschrijving van de micro:bit met zijn funcionaliteiten, zou het mogelijk moeten zijn om ermee aan de slag te gaan en alvast toffe dingen te gaan doen. Een kleine voorgeschiedenis in programmeren is een pluspunt. 
 We vonden het beiden een interessante en leerrijke ontdekkingstocht. We waren best verbaasd over de mogelijkheden die deze mini chip met zich meebracht. De chip is op zich ook zeer goedkoop te verkrijgen en is dus een mooie instap voor geinteresseerden. 
-
 We hopen dat ook u erdoor geïnspireerd raakt. 
