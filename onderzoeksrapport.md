@@ -48,7 +48,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 **<img src="images/microbit_connectors.jpg" alt="drawing" width="33%"/><br>De batterij aansluiting, de reset button en de micro-usb aansluiting<br>**
 
 
-<br><br><br>
+<br>
 
 <h2>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h2>
 
@@ -133,7 +133,7 @@ Nu moeten we de micro:bit pairen aan de raspberry pi door eerst de micro:bit in 
 
 En nu ben je gepaired
 
-<br><br><br>
+<br>
 
 <h1>De Micro:bit gebruiken als tracker voor je huisdier</h1>
 
@@ -204,7 +204,7 @@ En nu ben je gepaired
 
 **Een goede manier hiervoor lijkt mij het gebruik van IFTTT, hierbij kan vanuit python een http-request naar de Webhooks-service van IFTTT gestuurd worden, die dan op zijn beurt een android melding, een email of een sms kan sturen naar de user.</li>**
 
-<br><br><br>
+<br>
 
 <h2>Gebruik van micro:bit met smartphone</h2>
 
