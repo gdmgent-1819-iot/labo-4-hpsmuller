@@ -2,10 +2,15 @@
 
 
 <h2>Introductie</h2>
+Deel jonas .........
+....................
+....................
+....................
+....................
+....................
 
 
-
-<h1>De BBC Micro:bit</h1>
+<h2>De BBC Micro:bit</h2>
 
 ![](images/microbit_front.jpg)
 
@@ -45,7 +50,7 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
 <br><br><br>
 
-<h1>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h1>
+<h2>De micro:bits gebruiken als lichtsensoren (via Raspberry Pi)</h2>
 
 
 **1..** Eerst en vooral willen we graag de bluetooth communicatie mogelijk maken tussen beide apparaten.
@@ -201,7 +206,7 @@ En nu ben je gepaired
 
 <br><br><br>
 
-<h1>Gebruik van micro:bit met smartphone</h1>
+<h2>Gebruik van micro:bit met smartphone</h2>
 
 **Foto trekken en rear/front camera togglen met micro:bit buttons**
 
