@@ -1,3 +1,10 @@
+<h1>Onderzoek BBC Micro:bit</h1><br>
+
+
+<h2>Introductie</h2>
+
+
+
 <h1>De BBC Micro:bit</h1>
 
 ![](images/microbit_front.jpg)
@@ -19,7 +26,7 @@ Een simpele USB-A naar Micro-USB kabel kan de micro:bit van stroom voorzien, dit
 2.. **Batterij**<br>
 Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of alkaline batterijen van type AAA. Wanneer de batterij is aangesloten wanneer een Micro-USB kabel wordt aangesloten, dan zal de micro:bit automatisch overschakelen op de USB-stroom.
 
-**Specificaties**
+**Overige Specificaties**
 - 52 x 42 mm microcontroller-board
 - Bedoeld voor draadloze toepassingen
 - Nordic nRF51822 ARM Cortex-M0 microcontroller met geïntegreerde Bluetooth Low Energy (BLE) interface (componentenzijde)
@@ -237,3 +244,12 @@ Onze code zou er uitzien als volgt.
                basic.showString("W")
             }
          })
+
+<h2>Besluit</h2>
+
+Met deze laatste toepassing hadden wij graag ons onderzoek afgesloten.
+
+Op basis van voorafgaande voorbeelden en beschrijving van de micro:bit met zijn funcionaliteiten, zou het mogelijk moeten zijn om ermee aan de slag te gaan en alvast toffe dingen te gaan doen. Een kleine voorgeschiedenis in programmeren is een pluspunt. 
+We vonden het beiden een interessante en leerrijke ontdekkingstocht. We waren best verbaasd over de mogelijkheden die deze mini chip met zich meebracht. De chip is op zich ook zeer goedkoop te verkrijgen en is dus een mooie instap voor geinteresseerden. 
+
+We hopen dat ook u erdoor geïnspireerd raakt. 
