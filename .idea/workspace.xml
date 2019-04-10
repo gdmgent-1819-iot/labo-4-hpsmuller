@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="299">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="174">
+                <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,7 +159,7 @@
       <workItem from="1554826734356" duration="85000" />
       <workItem from="1554829678146" duration="742000" />
       <workItem from="1554915922750" duration="294000" />
-      <workItem from="1554919495605" duration="242000" />
+      <workItem from="1554919495605" duration="1124000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -308,11 +308,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554919581692</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="typo2">
+      <created>1554919791616</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554919791616</updated>
+    </task>
+    <task id="LOCAL-00023" summary="typo3">
+      <created>1554920529139</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554920529139</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21990000" />
+    <option name="totallyTimeSpent" value="22872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +392,9 @@
     <MESSAGE value="intro part 1" />
     <MESSAGE value="Final Commit" />
     <MESSAGE value="typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo" />
+    <MESSAGE value="typo2" />
+    <MESSAGE value="typo3" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TODO.md" />
@@ -388,8 +404,8 @@
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="299">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <first_editor relative-caret-position="174">
+            <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
           </first_editor>
           <second_editor />
         </state>
