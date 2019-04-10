@@ -11,7 +11,7 @@ In dit onderzoeksrapport worden de mogelijkheden van de BBC Micro:Bit bekeken. O
 
 Sinds 2016 is de Micro:bit, ontwikkeld door de BBC, online verkrijgbaar. Wij lichten graag kort even toe wat de Micro:bit is en wat we ermee kunnen doen.
 
-De kaart is uitermate geschikt voor het programmeren van wearables, mobiele toepassingen ... Kortom voor IoT development. 
+De kaart is uitermate geschikt voor het programmeren van wearables, mobiele toepassingen... . Kortom voor IoT development. 
 
 In de eerste plaats werd de kaart ontwikkeld om programmeren bij kinderen te stimuleren. Deze indicatie vinden we ook al terug wanneer we kijken naar het ontwerp. De kleuren zorgen voor een toegankelijk design voor kinderen. De verschillende elementen op de kaart zouden een gezichtje moeten voorstellen.
 
