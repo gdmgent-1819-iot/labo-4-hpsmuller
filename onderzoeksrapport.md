@@ -2,7 +2,7 @@
 
 
 <h2>Introductie</h2>
-In dit onderzoeksrapport worden de mogelijkheden van de BBC Micro:Bit bekeken. Ook wordt onderzocht in welke mate deze kan samenwerken met de Raspberry Pi door middel van enkele voorbeelden. Bij het unboxen werd al meteen duidelijk dat de Micro:Bit eerder bestemd is voor kinderen en/of beginnende programmeurs, verder bleek ook het programmeren voor en uitvoeren op de Micro:Bit relatief simpel. De moeilijkheid was het gebruik van de Micro:Bit samen met de Raspberry Pi.
+In dit onderzoeksrapport worden de mogelijkheden van de BBC Micro:Bit bekeken. Ook wordt onderzocht in welke mate deze kan samenwerken met de Raspberry Pi door middel van enkele voorbeelden. Bij het unboxen werd al meteen duidelijk dat de Micro:Bit eerder bestemd is voor kinderen en/of beginnende programmeurs, verder bleek ook het schrijven van een script en dit uitvoeren op de Micro:Bit relatief simpel. De moeilijkheid was het gebruik van de Micro:Bit samen met de Raspberry Pi.
 
 
 <h2>De BBC Micro:bit</h2>
