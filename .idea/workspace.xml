@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="211">
-                <caret line="123" column="117" selection-start-line="123" selection-start-column="117" selection-end-line="123" selection-end-column="117" />
+              <first_editor relative-caret-position="470">
+                <caret line="251" column="239" selection-start-line="251" selection-start-column="239" selection-end-line="251" selection-end-column="239" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,7 +159,7 @@
       <workItem from="1554826734356" duration="85000" />
       <workItem from="1554829678146" duration="742000" />
       <workItem from="1554915922750" duration="294000" />
-      <workItem from="1554919495605" duration="1181000" />
+      <workItem from="1554919495605" duration="2238000" />
     </task>
     <task id="LOCAL-00001" summary="oi">
       <created>1554041169538</created>
@@ -329,11 +329,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554920676081</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="typo4">
+      <created>1554920732401</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554920732401</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22929000" />
+    <option name="totallyTimeSpent" value="23986000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,8 +419,8 @@
     <entry file="file://$PROJECT_DIR$/onderzoeksrapport.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="211">
-            <caret line="123" column="117" selection-start-line="123" selection-start-column="117" selection-end-line="123" selection-end-column="117" />
+          <first_editor relative-caret-position="470">
+            <caret line="251" column="239" selection-start-line="251" selection-start-column="239" selection-end-line="251" selection-end-column="239" />
           </first_editor>
           <second_editor />
         </state>

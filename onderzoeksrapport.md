@@ -126,7 +126,7 @@ Nu moeten we de micro:bit pairen aan de raspberry pi door eerst de micro:bit in 
     pair yy:yy:yy:yy:yy:yy
     (vervang yy:yy:yy:yy:yy:yy door het gekopieerde adres)
 
-En nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren via bluetooth gebruikt worden in de code die op de Raspberry Pi wordt uitgevoerd.
+Nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren via bluetooth gebruikt worden in de code die op de Raspberry Pi wordt uitgevoerd.
 
 <br>
 
@@ -137,7 +137,7 @@ En nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren
 
 <h4>Aanpak</h4>
 
-**1..** Als eerste maken we een oneindige loop aan, daar binnen zal alle code voor de tracking zich bevinden.
+**1..** Als eerste maken we een oneindige loop aan, daarbinnen zal alle code voor de tracking zich bevinden.
 
 **2..** Vervolgens maken we 3 variabelen aan die de waarden van de accelerometer bijhouden.
 
@@ -148,8 +148,8 @@ En nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren
          Zdirection 
    
 
-**3..** Hierna zorgen we ervoor dat de variabelen de waarden bevatten conform de beweging van de accelerometer.
-   De code zal er ongeveer uit zien als volgt:
+**3..** Hierna zorgen we ervoor dat de variabelen de waarden bevatten volgens de beweging van de accelerometer.
+   De code zal er ongeveer als volgt uitzien:
 
    <h4>Variables holding the new coordinates</h4>
 
@@ -171,7 +171,7 @@ En nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren
          if Xmovement ≠ OldX ...<br>
          
 
-**5..** We stellen een threshold in die het programma pas activeert wanneer voldoende beweging wordt geregistreerd:
+**5..** We stellen een threshold in die het programma pas activeert wanneer er voldoende beweging wordt geregistreerd:
 
    <h4>Declaring and initiate the threshold variables</h4>
 
@@ -197,7 +197,7 @@ En nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren
 
 - De microbit bevestigen aan de voederbak waardoor wanneer het dier eet, de kleinste beweging van de bak gedetecteerd wordt en een melding stuurt naar de user.
 
-**Een goede manier hiervoor lijkt mij het gebruik van IFTTT, hierbij kan vanuit python een http-request naar de Webhooks-service van IFTTT gestuurd worden, die dan op zijn beurt een android melding, een email of een sms kan sturen naar de user.</li>**
+**Een goede manier hiervoor lijkt ons het gebruik van IFTTT, hierbij kan vanuit python een http-request naar de Webhooks-service van IFTTT gestuurd worden, die dan op zijn beurt een android melding, een email of een sms kan sturen naar de user.</li>**
 
 <br>
 
@@ -205,9 +205,9 @@ En nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren
 
 **Foto trekken en rear/front camera togglen met micro:bit buttons**
 
-Een andere leuke feature waarvoor we de micro:bit kunnen gebruiken is als remote voor onze smartphone.
-Via een druk op de A knop van deze micro:bit kunnen we ons beeld vastleggen. De knop fungeert dan eigenlijk als onze camera trigger button. Ook is het mogelijk om te switchen tussen front en rear camera. In deze code gebruiken we hiervoor de B toets.
-Met deze korte code kunnen we dit voor mekaar krijgen.
+Een andere leuke feature waarvoor we de micro:bit kunnen gebruiken, is als remote voor onze smartphone.
+Via een druk op de A knop van deze micro:bit kunnen we ons beeld vastleggen. De knop fungeert dan eigenlijk als onze camera trigger-button. Ook is het mogelijk om te switchen tussen front en rear camera. In deze code gebruiken we hiervoor de B-toets.
+Met deze korte code kunnen we dit voor mekaar krijgen:
 
          input.onButtonPressed(Button.A, function() {
             devices.tellCameraTo(MesCameraEvent.TakePhoto)
@@ -225,7 +225,7 @@ Met deze korte code kunnen we dit voor mekaar krijgen.
 
 Als tweede leuke feature kunnen we de micro:bit hanteren om ons te voorzien van de juiste windrichtingen.
 We spreken hiervoor de magnetometer aan die standaard aanwezig is in de micro:bit.
-Onze code zou er uitzien als volgt.
+Onze code zou er uitzien als volgt:
 
          let degrees = 0
          bluetooth.startMagnetometerService()
@@ -249,5 +249,5 @@ Onze code zou er uitzien als volgt.
 
 Met deze laatste toepassing hadden wij graag ons onderzoek afgesloten.
 Op basis van voorafgaande voorbeelden en beschrijving van de micro:bit met zijn funcionaliteiten, zou het mogelijk moeten zijn om ermee aan de slag te gaan en alvast toffe dingen te gaan doen. Een kleine voorgeschiedenis in programmeren is een pluspunt. 
-We vonden het beiden een interessante en leerrijke ontdekkingstocht. We waren best verbaasd over de mogelijkheden die deze mini chip met zich meebracht. De chip is op zich ook zeer goedkoop te verkrijgen en is dus een mooie instap voor geinteresseerden. 
+We vonden het beiden een interessante en leerrijke ontdekkingstocht. We waren best verbaasd over de mogelijkheden die deze mini-chip met zich meebracht. De chip is op zich ook zeer goedkoop te verkrijgen en is dus een mooie instap voor geïnteresseerden. 
 We hopen dat ook u erdoor geïnspireerd raakt. 
