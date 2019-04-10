@@ -24,7 +24,7 @@ De micro:bit kan op 2 manieren van stroom worden voorzien:
 Een simpele USB-A naar Micro-USB kabel kan de micro:bit van stroom voorzien, dit sluit je best aan op een standaard 5V USB poort van je computer. Hiermee kan je ook makkelijk je nieuwe of aangepaste code installeren op de micro:bit.
 
 2.. **Batterij**<br>
-Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of alkaline batterijen van type AAA. Wanneer de batterij is aangesloten wanneer een Micro-USB kabel wordt aangesloten, dan zal de micro:bit automatisch overschakelen op de USB-stroom.
+Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of alkaline batterijen van type AAA. Indien een Micro-USB kabel wordt aangesloten terwijl de Micro:Bit op batterijstroom draait, zal de micro:bit automatisch overschakelen op de USB-stroom.
 
 **Overige Specificaties**
 - 52 x 42 mm microcontroller-board
@@ -58,12 +58,12 @@ Wanneer de code moet gedraaid worden op batterij kan dit perfect met 2 zink of a
 
    **Dit script kan op de micro:bit zelfstandig draaien waardoor meerdere micro:bits tegelijk dit script draaien. Bovendien is het makkelijk om extra micro:bits toe te voegen en/of te verwijderen uit het systeem. Na het ontvangen van bepaalde signalen van de micro:bit(s) kan de raspberry pi deze gebruiken om bepaalde output te genereren.**
 
-   **Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de administrator sturen, visuele signalen terugsturen naar desbetreffende micro:bit ...**
+   **Dit kan in de vorm van bijvoorbeeld een log bijhouden, een melding naar de administrator sturen, visuele signalen terugsturen naar desbetreffende micro:bit... .**
 
 <h4>Setup</h4>
 
 **1.. Dependencies installeren**<br>
-Eerst en vooral moet bluezero worden geinstalleerd, dit kan eenvoudig door volgend commando:
+Eerst en vooral moet bluezero worden geïnstalleerd, dit kan eenvoudig door volgend commando:
 
     sudo pip3 install bluezero
     sudo reboot
@@ -97,7 +97,7 @@ Als resultaat krijg je iets gelijkaardig aan dit:
             Modalias: usb:v1D6Bp0246d052B
             Discovering: no
 
-Indien er 'Powered: yes' staat is alles in orde anders moet je eesrst nog de adapter activeren:
+Indien er 'Powered: yes' staat is alles in orde anders moet je eerst nog de adapter activeren:
 
     power on
 
@@ -114,7 +114,7 @@ Nu kan je nogmaals proberen om de adapter te activeren:
 
     power on
 
-En dan kan de de scan starten
+En dan kan de scan starten:
 
     scan on
 
