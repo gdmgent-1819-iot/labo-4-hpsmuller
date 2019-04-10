@@ -126,7 +126,7 @@ Nu moeten we de micro:bit pairen aan de raspberry pi door eerst de micro:bit in 
     pair yy:yy:yy:yy:yy:yy
     (vervang yy:yy:yy:yy:yy:yy door het gekopieerde adres)
 
-En nu ben je gepaired
+En nu zijn de Micro:Bit en Raspberry Pi gepaired en kunnen de Micro:Bit sensoren via bluetooth gebruikt worden in de code die op de Raspberry Pi wordt uitgevoerd.
 
 <br>
 
