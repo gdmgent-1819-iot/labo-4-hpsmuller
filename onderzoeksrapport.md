@@ -118,10 +118,10 @@ En dan kan de scan starten:
 
     scan on
 
-Wanneer de microbit in de lijst staat, dien je het adres te kopieren (heeft volgende structuur: yy:yy:yy:yy:yy:yy)
+Wanneer de microbit in de lijst staat, dien je het adres te kopieren (heeft volgende structuur: yy:yy:yy:yy:yy:yy).
 
 **3.. De Micro:Bit pairen**<br>
-Nu moeten we de micro:bit pairen aan de raspberry pi door eerst de micro:bit in pairing modus te brengen. Dit gebeurd door beide buttons ingedrukt te houden en kort op de reset button te drukken. Houd de buttons (behalve de reset button) tot het bluetooth logo op de led matrix verschijnt, dan mag je alle buttons los laten. Nu kan je pairen door volgend commando:
+Nu moeten we de micro:bit pairen aan de raspberry pi door eerst de micro:bit in pairing modus te brengen. Dit gebeurt door beide buttons ingedrukt te houden en kort op de reset button te drukken. Houd de buttons (behalve de reset button) tot het bluetooth logo op de led matrix verschijnt, dan mag je alle buttons los laten. Nu kan je pairen door volgend commando:
 
     pair yy:yy:yy:yy:yy:yy
     (vervang yy:yy:yy:yy:yy:yy door het gekopieerde adres)
