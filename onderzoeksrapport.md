@@ -2,7 +2,7 @@
 
 
 <h2>Introductie</h2>
-In dit onderzoeksrapport worden de mogelijkheden van de BBC Micro:Bit bekeken. Ook wordt onderzocht in welke mate deze kan samenwerken met de Raspberry Pi door middel van enkele voorbeelden. Bij het unboxen werd al meteen duidelijk dat de Micro:Bit eerder bestemd is voor kinderen en/of beginnende programmeurs, verder bleek ook het schrijven van een script en dit uitvoeren op de Micro:Bit relatief simpel. De moeilijkheid was het gebruik van de Micro:Bit samen met de Raspberry Pi.
+In dit onderzoeksrapport worden de mogelijkheden van de BBC Micro:Bit onderzocht. Ook wordt onderzocht in welke mate deze kan samenwerken met de Raspberry Pi aan de hand van enkele voorbeelden. Bij het unboxen werd al snel duidelijk dat de Micro:Bit eerder bestemd is voor kinderen en/of beginnende programmeurs. Verder bleek ook het schrijven van een script en dit uitvoeren op de Micro:Bit relatief simpel. De moeilijkheid tijdens deze testen lag voornamelijk bij de samenwerking tussen de Micro:bit en de Raspberry Pi. 
 
 
 <h2>De BBC Micro:bit</h2>
@@ -121,7 +121,7 @@ En dan kan de scan starten:
 Wanneer de microbit in de lijst staat, dien je het adres te kopieren (heeft volgende structuur: yy:yy:yy:yy:yy:yy).
 
 **3.. De Micro:Bit pairen**<br>
-Nu moeten we de micro:bit pairen aan de raspberry pi door eerst de micro:bit in pairing modus te brengen. Dit gebeurt door beide buttons ingedrukt te houden en kort op de reset button te drukken. Houd de buttons (behalve de reset button) tot het bluetooth logo op de led matrix verschijnt, dan mag je alle buttons los laten. Nu kan je pairen door volgend commando:
+Nu moeten we de micro:bit pairen met de raspberry pi door eerst de micro:bit in pairing modus te brengen. Dit gebeurt door beide buttons ingedrukt te houden en kort op de reset button te drukken. Houd de buttons in (behalve de reset button) tot het bluetooth logo op de led matrix verschijnt. Laat vervolgens alle buttons los. Nu kan je pairen door volgend commando:
 
     pair yy:yy:yy:yy:yy:yy
     (vervang yy:yy:yy:yy:yy:yy door het gekopieerde adres)
@@ -249,5 +249,4 @@ Onze code zou er uitzien als volgt:
 
 Met deze laatste toepassing hadden wij graag ons onderzoek afgesloten.
 Op basis van voorafgaande voorbeelden en beschrijving van de micro:bit met zijn funcionaliteiten, zou het mogelijk moeten zijn om ermee aan de slag te gaan en alvast toffe dingen te gaan doen. Een kleine voorgeschiedenis in programmeren is een pluspunt. 
-We vonden het beiden een interessante en leerrijke ontdekkingstocht. We waren best verbaasd over de mogelijkheden die deze mini-chip met zich meebracht. De chip is op zich ook zeer goedkoop te verkrijgen en is dus een mooie instap voor geïnteresseerden. 
-We hopen dat ook u erdoor geïnspireerd raakt. 
+We vonden het beiden een interessante en leerrijke ontdekkingstocht. We waren best verbaasd over de mogelijkheden die deze mini-chip met zich meebracht. De chip is op zich ook zeer goedkoop te verkrijgen en is dus een mooie instap voor geïnteresseerden. We hopen dat ook u erdoor geïnspireerd raakt. 
